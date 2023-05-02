@@ -1,0 +1,36 @@
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.card {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  border-radius: 15px;
+  width: 30%;
+  align-self: center;
+  text-align: center;
+  padding: 30px;
+}
+.heading {
+  color: #a35200;
+}
+.image {
+  height: 120px;
+}
+.btn {
+  background-color: #f9d423;
+  border-radius: 7px;
+  padding: 8px;
+  color: #a35200;
+  border-width: 0px;
+}
+.list-card {
+  display: flex;
+  justify-content: center;
+}
+.para {
+  margin-right: 50px;
+}
